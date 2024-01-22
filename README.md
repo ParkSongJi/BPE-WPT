@@ -145,7 +145,7 @@
 
 - ### **mask_token**
   
-Bert는 self-supervised learning 중 하나인 masking 방법을 사용하고 있습니다. masking 기법은 문장 내에 단어들 중 무작위로 선택하여 masking처리를 하고 해당 단어를 맞추는 형태로 진행하면서 모델의 성능을 향상시키는 기법입니다.
+  Bert는 self-supervised learning 중 하나인 masking 방법을 사용하고 있습니다. masking 기법은 문장 내에 단어들 중 무작위로 선택하여 masking처리를 하고 해당 단어를 맞추는 형태로 진행하면서 모델의 성능을 향상시키는 기법입니다.
 
 <br>
 
