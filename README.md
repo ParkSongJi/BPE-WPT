@@ -183,7 +183,8 @@
 
 ### 3. 단어가 가질수 있는 병합의 조건을 모두 확인한 후 빈도의 비중이 가장 큰 병합을 하나의 글자로 통합
 <p align="center">
-  <img src="https://github.com/ParkSongJi/BPE-WPT/assets/149549312/98a1eda0-e78d-40a7-922a-f3f6756e59c0" alt="이미지 설명" width="700" height="200">
+  <img src="https://github.com/ParkSongJi/BPE-WPT/assets/149549312/ca83b4bb-1dc4-423e-a1e6-f7b41b27c726" alt="이미지 설명" width="700" height="200">
+
 
 </p>
 - 예시: ('a', '##'p', '##'p', '##l', '##e') -> 'ap', 'pp', 'pl', 'le' 중 'ap'가 가장 높은 비중을 차지한다는 가정을 합니다.
